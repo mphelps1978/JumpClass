@@ -25,15 +25,15 @@
 - The goal of an SR Engineer is to do as much automation as possible to lessen the need for manual operations.
 - An SR Engineer helps enable development teams to quickly produce software while also ensuring a level of acceptable operation (SLAs), helping bridge the gap between dev and operations teams.
 
-## SRE Vs DevOps
+# SRE Vs DevOps
 
 Read about the differences [here](https://www.ibm.com/cloud/blog/three-differences-between-devops-and-sre)
 
-### DevOps
+## DevOps
 
 - DevOps is an approach to culture, automation and platform design in order to increase customer value
 
-### SRE
+## SRE
 
 - SRE Uses software engineering to automate IT Operational Tasks that would normally be performed by systems administrators
 
