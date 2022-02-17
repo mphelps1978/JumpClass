@@ -39,19 +39,11 @@ Read about the differences [here](https://www.ibm.com/cloud/blog/three-differenc
 
 In a sense, they are identical in philosophies, but differ in practicality, via:
 
-- **Skills**
-
-  - DevOps are coders. They love writing, testing, and pushing code to solve a problem.
-  - SREs on the other hand, are more investigative. They will analyze why something has gone wrong. They want to be proactive, not reactive.
-
-- **Automation**
-
-  - DevOps Engineers want to automate deployment - Tasks and features
-  - SREs Automate redundancy. They want to automate those tasks that have to be repeated over and over, turning them into programmatic tasks, keeping the system up and running.
-
-- **Development and Implementation**
-  - DevOps are focused on _core_ development. They are working on the application as a whole, thereby solving a problem. They are Agile in approach, and deliver solutions that help the team build, test, deploy and monitor those applications
-  - SRE's are _implementing_ that core. They are giving feedback to the core development team saying things like "This isn't working like you thought it would be" They leverage software to automate IT Operations tasks while minimizing IT Risk
+|                                    | DevOps                                                                                                                                                                                                                            | SRE                                                                                                                                                                                                                                |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Skills**                         | DevOps are Coders. They lovewriting, testing, and pushing code to solve a problem.                                                                                                                                                | Investigative. They will analyze why something has gone wrong. They want to be proactive, not reactive.                                                                                                                            |
+| **Automation**                     | DevOps Engineers want to automate deployment - Tasks and features                                                                                                                                                                 | Automate redundancy. They want to automate those tasks that have to be repeated over and over, turning them into programmatic tasks, keeping the system up and running.                                                            |
+| **Development and Implementation** | focused on core _development_. They are working on the application as a whole, thereby solving a problem. They are Agile in approach, and deliver solutions that help the team build, test, deploy and monitor those applications | Core _Implementation_ They are giving feedback to the core development team saying things like _"This isn't working like you thought it would be"_ They leverage software to automate IT Operations tasks while minimizing IT Risk |
 
 ---
 
